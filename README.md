@@ -1,4 +1,4 @@
-:brazil: # Olá !!! Que alegria imensa ter você por aqui !!! :star_struck::star_struck::star_struck:
+:brazil: #Olá !!! Que alegria imensa ter você por aqui !!! :star_struck::star_struck::star_struck:
 
 Me chamo Daniel Silva Céspedes tenho 25 anos e sou formado em licenciatura em matemática pela Universidade Adventista de São Paulo (UNASP). :man_student:
 Sou estudante de desenvolvimento na Trybe e faço parte da turma de agosto/2020.
