@@ -5,7 +5,7 @@
 <b>Meu progresso: </b>
 
 * Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:
-* Módulo de Desenvolvimento Front-end - em progresso; 	:hammer_and_wrench: :warning:
+* Módulo de Desenvolvimento Front-end - em progresso (85%); 	:hammer_and_wrench: :warning:
 * Módulo de Desenvolvimento Back-end; :closed_lock_with_key: 
 * Módulo da Ciência da Computação; :lock: :key:
 * Desenvolvedor Full Stack :checkered_flag: :boom:
