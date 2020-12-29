@@ -4,8 +4,8 @@ Me chamo Daniel Silva Céspedes tenho 25 anos e sou formado em licenciatura em m
 Sou estudante de desenvolvimento na Trybe e faço parte da turma de agosto/2020.
 Meu progresso: 
 
-* Módulo de Fundamentos do Desenvolvimento Web :1st_place_medal: :heavy_check_mark:
-* Módulo de Desenvolvimento Front-end
-* Módulo de Desenvolvimento Back-end :closed_lock_with_key: 
-* Módulo da Ciência da Computação :lock: :key:
+* Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:
+* Módulo de Desenvolvimento Front-end - em progresso; 	:hammer_and_wrench: :warning:
+* Módulo de Desenvolvimento Back-end; :closed_lock_with_key: 
+* Módulo da Ciência da Computação; :lock: :key:
 * Desenvolvedor Full Stack :checkered_flag: :boom:
