@@ -16,7 +16,7 @@
 <img src="https://testing-library.com/img/octopus-128x128.png" width='30px' height="30px" />
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" width='30px' height="30px" />
 
-<h2>Meus hobbies </h2>
+<h2>Meus hobbies</h2>
 <p>Tatuador (sim, sou tatuador); :syringe:</p>
 <p>Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
 <p>Toca violão e cantar; :microphone: :musical_score:</p>
