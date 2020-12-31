@@ -5,7 +5,20 @@
 <b>Meu progresso: </b>
 
 * Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:
-* Módulo de Desenvolvimento Front-end - em progresso (85%); 	:hammer_and_wrench: :warning:
+* Módulo de Desenvolvimento Front-end - em progresso (85%); 	:hammer_and_wrench: :construction:
 * Módulo de Desenvolvimento Back-end; :closed_lock_with_key: 
 * Módulo da Ciência da Computação; :lock: :key:
 * Desenvolvedor Full Stack :checkered_flag: :boom:
+
+<h2>O que já sei :brain:</h2>
+
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/node.jpeg" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/git.png" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/git.png" />
+
+<h2>Meus hobbies </h2>
