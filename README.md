@@ -12,13 +12,13 @@
 
 <h2>O que já sei :brain:</h2>
 
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/node.jpeg" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/git.png" />
-<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/git.png" />
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/node.jpeg" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/git.png" width='20px'/>
+<img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linux.png" width='20px'/>
 
 <h2>Meus hobbies </h2>
