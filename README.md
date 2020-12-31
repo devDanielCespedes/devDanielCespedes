@@ -21,3 +21,7 @@
 <p>Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
 <p>Toca violão e cantar; :microphone: :musical_score:</p>
 <p>Ver videos sobre o universo. :rocket:</p>
+
+<h2>Contato</h2>
+
+<a href="https://www.instagram.com/dancespedes/"> <img src="https://imagens.canaltech.com.br/empresas/638.400.jpg" /> </a>
