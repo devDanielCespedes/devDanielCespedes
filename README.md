@@ -24,9 +24,9 @@
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" alt='logo do jest' width='30px' height="30px" />
 
 <h2>Meus hobbies</h2>
-<p>Tatuador (sim, sou tatuador); :syringe:</p>
+<p>Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
 <p>Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
-<p>Toca violão e cantar; :microphone: :musical_score:</p>
+<p>Tocar violão e cantar; :microphone: :musical_score:</p>
 <p>Ver videos sobre o universo. :rocket:</p>
 
 <h2>Contato</h2>
