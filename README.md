@@ -23,5 +23,5 @@
 <p>Ver videos sobre o universo. :rocket:</p>
 
 <h2>Contato</h2>
-<a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://imagens.canaltech.com.br/empresas/638.400.jpg" width='30px' height="30px"/> </a>
+<a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1082974032482443265/8gsUI9oA_400x400.jpg" width='30px' height="30px"/> </a>
 <a href="https://www.instagram.com/dancespedes/" target="_blank"> <img src="https://imagens.canaltech.com.br/empresas/638.400.jpg" width='30px' height="30px"/> </a>
