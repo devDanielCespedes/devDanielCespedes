@@ -24,10 +24,10 @@
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" alt='logo do jest' width='30px' height="30px" />
 
 <h2>Meus hobbies</h2>
-<p>Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
-<p>Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
-<p>Tocar violão e cantar; :microphone: :musical_score:</p>
-<p>Ver videos sobre o universo. :rocket:</p>
+<p>- Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
+<p>- Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
+<p>- Tocar violão e cantar; :microphone: :musical_score:</p>
+<p>- Ver videos sobre o universo. :rocket:</p>
 
 <h2>Contato</h2>
 <a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1082974032482443265/8gsUI9oA_400x400.jpg" alt='link que direciona para o linkedIn do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
