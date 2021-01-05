@@ -4,7 +4,7 @@
 <p> Sou estudante de desenvolvimento de software na Trybe e faço parte da turma de agosto/2020. </p>
 <b>Meu progresso: </b>
 
-* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
+* <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
 * Módulo de Desenvolvimento Front-end - em progresso (85%); 	:hammer_and_wrench: :construction:
 * Módulo de Desenvolvimento Back-end; :closed_lock_with_key: 
 * Módulo da Ciência da Computação; :lock: :key:
