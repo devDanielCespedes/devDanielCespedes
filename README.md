@@ -22,6 +22,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt='logo do lunix' width='30px' height="30px"/>
 <img src="https://testing-library.com/img/octopus-128x128.png" alt='logo da react testing library' width='30px' height="30px" />
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" alt='logo do jest' width='30px' height="30px" />
+<img src="https://img2.gratispng.com/20180819/xv/kisspng-logo-mysql-cluster-database-oracle-corporation-macrosolution-5b7962c3aaa0d2.7413479715346817956989.jpg" alt='logo do MySQL' width='30px' height="30px" />
+<img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt='logo do MongoDB' width='30px' height="30px" />
 
 <h2>Meus hobbies</h2>
 <p>- Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
