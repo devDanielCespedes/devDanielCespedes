@@ -5,8 +5,8 @@
 <b>Meu progresso: </b>
 
 * <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
-* Módulo de Desenvolvimento Front-end - em progresso (85%); 	
-* Módulo de Desenvolvimento Back-end; :hammer_and_wrench: :construction:
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
+* Módulo de Desenvolvimento Back-end - (50%); :construction:
 * Módulo da Ciência da Computação; :lock: :key:
 * Desenvolvedor Full Stack. :checkered_flag: :boom:
 
