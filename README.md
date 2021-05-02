@@ -30,7 +30,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt='logo do TypeScript' width='30px' height="30px" />
 <img src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt='logo do Java' width='30px' height="30px" />
 <img src="https://img2.gratispng.com/20180921/kvs/kisspng-php-image-magic-quotes-emblem-logo-php-vector-1-free-php-graphics-download-5ba4b4319ad475.2145990715375206896342.jpg" alt='logo do php' width='30px' height="30px" />
-  </code>
+<img src="https://img2.gratispng.com/20180627/whl/kisspng-angularjs-spring-framework-web-application-5b3425bed33165.5288980515301441908651.jpg" alt='logo do Angular' width='30px' height="30px" />
+ </code>
 
 <h2>Meus hobbies</h2>
 <p>- Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
