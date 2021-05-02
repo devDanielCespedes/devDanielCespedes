@@ -26,10 +26,11 @@
 <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt='logo do MongoDB' width='30px' height="30px" />
 
 <h2>Meus interesses :brain: :computer:</h2>
-<code><img src="https://img1.gratispng.com/20180831/bol/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b8991925c19f7.9738748215357423543773.jpg" alt='logo do C#' width='30px' height="30px" /></code>
+<code><img src="https://img1.gratispng.com/20180831/bol/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b8991925c19f7.9738748215357423543773.jpg" alt='logo do C#' width='30px' height="30px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt='logo do TypeScript' width='30px' height="30px" />
 <img src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt='logo do Java' width='30px' height="30px" />
 <img src="https://img2.gratispng.com/20180921/kvs/kisspng-php-image-magic-quotes-emblem-logo-php-vector-1-free-php-graphics-download-5ba4b4319ad475.2145990715375206896342.jpg" alt='logo do php' width='30px' height="30px" />
+  </code>
 
 <h2>Meus hobbies</h2>
 <p>- Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
