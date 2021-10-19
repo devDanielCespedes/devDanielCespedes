@@ -6,8 +6,8 @@
 
 * <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
-* Módulo de Desenvolvimento Back-end - (50%); :construction:
-* Módulo da Ciência da Computação; :lock: :key:
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/backend.pdf'> Módulo de Desenvolvimento Back-end ; :1st_place_medal: :heavy_check_mark: </a> 
+* Módulo da Ciência da Computação; (50%); :construction:
 * Desenvolvedor Full Stack. :checkered_flag: :boom:
 
 <h2>O que já sei :brain: :computer:</h2>
@@ -24,17 +24,14 @@
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/940/full/jestlogo.png" alt='logo do jest' width='30px' height="30px" />
 <img src="https://img2.gratispng.com/20180819/xv/kisspng-logo-mysql-cluster-database-oracle-corporation-macrosolution-5b7962c3aaa0d2.7413479715346817956989.jpg" alt='logo do MySQL' width='30px' height="30px" />
 <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt='logo do MongoDB' width='30px' height="30px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt='logo do TypeScript' width='30px' height="30px" />
 
 <h2>Meus interesses :brain: :computer:</h2>
 <code><img src="https://img1.gratispng.com/20180831/bol/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b8991925c19f7.9738748215357423543773.jpg" alt='logo do C#' width='30px' height="30px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt='logo do TypeScript' width='30px' height="30px" />
-<img src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt='logo do Java' width='30px' height="30px" />
-<img src="https://img2.gratispng.com/20180921/kvs/kisspng-php-image-magic-quotes-emblem-logo-php-vector-1-free-php-graphics-download-5ba4b4319ad475.2145990715375206896342.jpg" alt='logo do php' width='30px' height="30px" />
 <img src="https://img2.gratispng.com/20180627/whl/kisspng-angularjs-spring-framework-web-application-5b3425bed33165.5288980515301441908651.jpg" alt='logo do Angular' width='30px' height="30px" />
  </code>
 
 <h2>Meus hobbies</h2>
-<p>- Tatuar realismo preto e branco (sim, sou tatuador); :syringe:</p>
 <p>- Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
 <p>- Tocar violão e cantar; :microphone: :musical_score:</p>
 <p>- Ver videos sobre o universo. :rocket:</p>
