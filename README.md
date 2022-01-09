@@ -8,7 +8,7 @@
 * <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/backend.pdf'> Módulo de Desenvolvimento Back-end ; :1st_place_medal: :heavy_check_mark: </a> 
-* Módulo da Ciência da Computação; (50%); :construction:
+* Módulo da Ciência da Computação; (99%); :construction:
 * Desenvolvedor Full Stack. :checkered_flag: :boom:
 
 <h2>O que já sei :brain: :computer:</h2>
@@ -18,6 +18,7 @@
 <img src="https://img2.gratispng.com/20180810/fvl/kisspng-javascript-comment-html-logo-international-confere-amp-quot-need-page-amp-quot-5b6d61dfbbdf29.2420070415338951357695.jpg" alt='logo do Javascript' width='30px' height="30px"/>
 <img src="https://bognarjunior.files.wordpress.com/2018/08/download.png?w=256" alt='logo do redux' width='30px' height="30px" margin-right="10px"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt='logo do React' width='50px' height="30px"/>
+<img src="https://miro.medium.com/max/2000/1*QDQvlCg420lzRElCK4AYhw.png" alt='logo do React Native' width='50px' height="30px"/>
 <img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" alt='logo do Nodo js' width='30px' height="30px"/> 
 <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt='logo do gitHub' width='30px' height="30px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt='logo do lunix' width='30px' height="30px"/>
@@ -38,7 +39,7 @@
 <p>- Ver videos sobre o universo. :rocket:</p>
 
 <h2>Contato</h2>
-<a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1082974032482443265/8gsUI9oA_400x400.jpg" alt='link que direciona para o linkedIn do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
+<a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://t.ctcdn.com.br/o6YUYZNxhn1ob0FEjQo-a7KapYU=/400x400/smart/i490027.jpeg" alt='link que direciona para o linkedIn do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
 <a href="mailto:dev.danielcespedes@gmail.com" target="_blank"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"  alt='link que direciona para o gmail do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
 <a href="https://www.instagram.com/dancespedes/" target="_blank"> <img src="https://imagens.canaltech.com.br/empresas/638.400.jpg" alt='link que direciona para o instagram do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
 <a href="https://api.whatsapp.com/send?phone=5511952744571" target="_blank"> <img src="https://staconecta.com.br/wp-content/uploads/2018/01/whats-sem-fundo.png" alt='link que direciona para o WhatsApp do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
