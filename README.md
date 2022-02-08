@@ -1,9 +1,8 @@
 # Olá!!! Que alegria imensa ter você por aqui!!! :star_struck::star_struck::star_struck:
 
 <p> Me chamo Daniel Silva Céspedes, tenho 26 anos e sou formado em licenciatura em matemática pela Universidade Adventista de São Paulo (UNASP). :man_student: <p/>
-<p> Sou estudante de desenvolvimento de software na Trybe e faço parte da turma de novembro/2020. </p>
-<p>  Atualmente trabalho no maior projeto já desenvolvido pela Ringa e utilizo React, Context API, Redux, Material ui e o Gitflow para implementar novas funcionalidades ao site e na correção de bugs.</p>
-<b>Meu progresso: </b>
+<p> Sou formado em desenvolvimento de software pela Trybe. </p>
+<p>  Atualmente trabalho na ProFusion como desenvoldor front-end jr.</p>
 
 * <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
