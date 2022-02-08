@@ -8,8 +8,9 @@
 * <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/backend.pdf'> Módulo de Desenvolvimento Back-end ; :1st_place_medal: :heavy_check_mark: </a> 
-* Módulo da Ciência da Computação; (99%); :construction:
-* Desenvolvedor Full Stack. :checkered_flag: :boom:
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/CienciaComputacao.pdf'> Módulo da Ciência da Computação; :1st_place_medal: :heavy_check_mark: </a> 
+
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Conclus%C3%A3oDoCurso.pdf'> Desenvolvedor Full Stack; :1st_place_medal: :heavy_check_mark: :checkered_flag: :boom: </a> 
 
 <h2>O que já sei :brain: :computer:</h2>
 
