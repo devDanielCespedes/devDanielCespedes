@@ -1,6 +1,6 @@
 # Olá!!! Que alegria imensa ter você por aqui!!! :star_struck::star_struck::star_struck:
 
-<p> Me chamo Daniel Silva Céspedes, tenho 26 anos e sou formado em licenciatura em matemática pela Universidade Adventista de São Paulo (UNASP). :man_student: <p/>
+<p> Me chamo Daniel Silva Céspedes, tenho 28 anos e sou formado em licenciatura em matemática pela Universidade Adventista de São Paulo (UNASP). :man_student: <p/>
 <p> Sou formado em desenvolvimento de software pela Trybe. </p>
 <p>  Atualmente trabalho na ProFusion como desenvoldor front-end jr.</p>
 
