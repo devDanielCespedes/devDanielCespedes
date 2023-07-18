@@ -9,7 +9,7 @@
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/computer-science.pdf'> Computer science; :1st_place_medal: :heavy_check_mark: </a> 
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/full-stack-web-development.pdf'> Full stack web development. :1st_place_medal: :heavy_check_mark: :checkered_flag: :boom: </a> 
 
-<h2>What I already know :brain: :computer:</h2>
+<h2>I already know :brain: :computer:</h2>
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width='30px' height="30px" alt='logo do HTML' marginRight="10px"/></code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt='logo do CSS' width='30px' height="30px"/>
