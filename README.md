@@ -3,12 +3,11 @@
 <p> My name is Daniel Silva Céspedes, I am 28 years old, and I hold a degree in Mathematics Education from the Adventist University of São Paulo (UNASP). :man_student: <p/>
 <p> I am a graduate in Software Development from Trybe. </p>
 
-* <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
-* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
-* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/backend.pdf'> Módulo de Desenvolvimento Back-end ; :1st_place_medal: :heavy_check_mark: </a> 
-* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/CienciaComputacao.pdf'> Módulo da Ciência da Computação; :1st_place_medal: :heavy_check_mark: </a> 
-
-* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Conclus%C3%A3oDoCurso.pdf'> Desenvolvedor Full Stack; :1st_place_medal: :heavy_check_mark: :checkered_flag: :boom: </a> 
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/fundamentals-of-web-development.pdf'> Fundamentals of web development; :1st_place_medal: :heavy_check_mark:</a>
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/front-end-development.pdf'> Front-end development; :1st_place_medal: :heavy_check_mark: </a>
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/backend.pdf'> Back-end development; :1st_place_medal: :heavy_check_mark: </a> 
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/computer-science.pdf'> Computer science; :1st_place_medal: :heavy_check_mark: </a> 
+* <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/full-stack-web-development.pdf'> Full stack web development. :1st_place_medal: :heavy_check_mark: :checkered_flag: :boom: </a> 
 
 <h2>What I already know :brain: :computer:</h2>
 
@@ -28,13 +27,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt='logo do TypeScript' width='30px' height="30px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt='logo do GraphQL' width='30px' height="30px" />
 
-<h2>Meus interesses :brain: :computer:</h2>
-<code><img src="https://img1.gratispng.com/20180831/bol/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b8991925c19f7.9738748215357423543773.jpg" alt='logo do C#' width='30px' height="30px" />
- </code>
 
-
-<h2>Contato</h2>
+<h2>Contact</h2>
 <a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://t.ctcdn.com.br/o6YUYZNxhn1ob0FEjQo-a7KapYU=/400x400/smart/i490027.jpeg" alt='link que direciona para o linkedIn do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
 <a href="mailto:dev.danielcespedes@gmail.com" target="_blank"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63"  alt='link que direciona para o gmail do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
 <a href="https://www.instagram.com/dancespedes/" target="_blank"> <img src="https://images.vexels.com/media/users/3/137197/isolated/preview/fb944c570182b6e89eb21f41f8c4522b-silhueta-colorida-de-instagram.png" alt='link que direciona para o instagram do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
-<a href="https://api.whatsapp.com/send?phone=5511952744571" target="_blank"> <img src="https://staconecta.com.br/wp-content/uploads/2018/01/whats-sem-fundo.png" alt='link que direciona para o WhatsApp do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
+<a href="https://api.whatsapp.com/send?phone=5511952744571" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt='link que direciona para o WhatsApp do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
