@@ -1,8 +1,7 @@
-# Olá!!! Que alegria imensa ter você por aqui!!! :star_struck::star_struck::star_struck:
+# Hello!!! What immense joy to have you here!!! :star_struck::star_struck::star_struck:
 
-<p> Me chamo Daniel Silva Céspedes, tenho 28 anos e sou formado em licenciatura em matemática pela Universidade Adventista de São Paulo (UNASP). :man_student: <p/>
-<p> Sou formado em desenvolvimento de software pela Trybe. </p>
-<p>  Atualmente trabalho na ProFusion como desenvoldor front-end jr.</p>
+<p> My name is Daniel Silva Céspedes, I am 28 years old, and I hold a degree in Mathematics Education from the Adventist University of São Paulo (UNASP). :man_student: <p/>
+<p> I am a graduate in Software Development from Trybe. </p>
 
 * <a href='https://raw.githubusercontent.com/devDanielCespedes/devDanielCespedes/main/images/certificadoConclusaoModuloFundamentos.png'> Módulo de Fundamentos do Desenvolvimento Web; :1st_place_medal: :heavy_check_mark:</a>
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Turma-07_-Certificado-de-Font-End-Daniel-Silva-C%C3%A9spedes.jpg?raw=true'> Módulo de Desenvolvimento Front-end; :1st_place_medal: :heavy_check_mark: </a>
@@ -11,7 +10,7 @@
 
 * <a href='https://github.com/devDanielCespedes/devDanielCespedes/blob/main/images/Conclus%C3%A3oDoCurso.pdf'> Desenvolvedor Full Stack; :1st_place_medal: :heavy_check_mark: :checkered_flag: :boom: </a> 
 
-<h2>O que já sei :brain: :computer:</h2>
+<h2>What I already know :brain: :computer:</h2>
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width='30px' height="30px" alt='logo do HTML' marginRight="10px"/></code>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt='logo do CSS' width='30px' height="30px"/>
@@ -33,11 +32,6 @@
 <code><img src="https://img1.gratispng.com/20180831/bol/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b8991925c19f7.9738748215357423543773.jpg" alt='logo do C#' width='30px' height="30px" />
  </code>
 
-<h2>Meus hobbies</h2>
-<p>- Fazer hipnose de entretenimento e hipnoterapia; :lotus_position_man: :lotus_position_woman: :massage_woman: :massage_man:</p>
-<p>- Tocar violão e cantar; :microphone: :musical_score:</p>
-<p>- Ver videos sobre o universo; :rocket:</p>
-<p>- Tatuar. 💉</p>
 
 <h2>Contato</h2>
 <a href="https://www.linkedin.com/in/devdanielcespedes/" target="_blank"> <img src="https://t.ctcdn.com.br/o6YUYZNxhn1ob0FEjQo-a7KapYU=/400x400/smart/i490027.jpeg" alt='link que direciona para o linkedIn do Daniel Silva Céspedes' width='30px' height="30px"/> </a>
